@@ -1,0 +1,171 @@
+.logo{
+
+margin-left: 4cm;
+
+}
+
+.search{
+
+margin-left: 22cm;
+width: 25%;
+margin-top: -1cm;
+height: 1cm;
+border-radius: 10px;
+}
+
+.menu{
+margin-top: 1cm;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+border: grey 1px solid;
+border-radius: 5px;
+width: 84%; 
+margin-left: 3cm; 
+
+}
+
+
+ul{
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: grey;   
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    
+
+
+    
+    li{
+    
+    float: left;
+    
+    }
+    
+    
+     a, .dropbtn{
+    
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding:  10px 12px;
+    text-decoration: none;
+    
+    
+    }
+    
+    
+    
+    
+     a:hover, .dropdown:hover .dropbtn{
+    
+    background-color: grey;;
+    
+    }
+    
+
+    
+    .dropdown{
+    
+        display: inline-block;
+        
+    }
+    
+    
+    .dropdown-content{
+    
+    display: none;
+    position: absolute;
+    background-color:white;;
+    min-width: 140px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    }
+    
+    
+    
+    
+    
+    
+    .dropdown-content a{
+    color: black;
+    padding: 10px 12px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    }
+    
+    
+    .drop:hover .dropdown-content{
+    
+    display:block;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    
+   
+    
+
+
+.pic1{
+
+    margin-top: 1cm;
+    width: 84%;
+    margin-left: 3cm;
+    height:60%;
+}
+
+
+.group{
+
+
+margin-left: 3cm;
+width: 100%;
+margin-top: 1cm;
+
+}
+
+
+
+
+.announce{
+
+    margin-top: -9cm;
+    margin-left: 17cm;
+    font-weight: normal;
+
+
+}
+
+.state1{
+
+  
+    margin-left: 17cm;
+    margin-top: 0.5cm;
+    list-style-type: circle;
+   
+
+}
+
+.state2{
+
+margin-left: 17cm;
+margin-top: 0.5cm;
+list-style-type: circle;
+}
+
+.state3{
+
+margin-left: 17cm;
+margin-top: 0.5cm;
+list-style-type: circle;
+}
+
+.newstext{
+
+font-weight: normal;
+
+}
+
